@@ -1,17 +1,7 @@
-# trste_api
+# App de Teste em Flutter
 
-A new Flutter project.
+Este projeto foi criado com o objetivo de praticar o desenvolvimento de aplicativos utilizando o framework Flutter. O aplicativo utiliza a API do governo para buscar informações sobre deputados, exibindo seus dados básicos e suas atividades recentes.
 
-## Getting Started
+Desenvolver este aplicativo foi uma ótima oportunidade para praticar habilidades em Flutter, bem como aprender a consumir APIs e trabalhar com dados externos.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# AppDeputados
+Clone este repositório e experimente! Mantenha-se informado sobre o trabalho dos deputados.
